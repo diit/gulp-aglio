@@ -4,7 +4,7 @@
     "url": "https://github.com/nnnnathann/gulp-aglio/issues"
   },
   "dependencies": {
-    "aglio": "diit/aglio",
+    "aglio": "github:diit/aglio",
     "gulp-util": "^3.0.6",
     "lodash.defaults": "^3.1.2",
     "through2": "^2.0.0"
